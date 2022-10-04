@@ -14,6 +14,8 @@
 2. Download [COCO datasets](https://cocodataset.org/#download) & unzip & place it in `./` (`./train2014`, `./val2014`).
 3. Run `python create_stair_wmap.py > stair_word_map.json`
 
+- You can download `stair_word_map.json`, checkpoints, and `coco_word_map.json` from [here](https://github.com/Japanese-Image-Captioning/SAT-for-Japanese/releases/tag/v1.0.0)!
+
 ### Train 
 
 ```
