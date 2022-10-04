@@ -1,0 +1,15 @@
+*.pth.tar
+*.pth
+*.json
+*.jpeg
+.python-version
+
+# folder
+img/*
+.idea/*
+__pycache__/*
+STAIR-captions/
+wandb/
+train2014/
+val2014/
+
